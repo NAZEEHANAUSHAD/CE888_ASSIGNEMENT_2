@@ -13,6 +13,5 @@ Complete project codes
     The pre-processing functions are the same for both the attributes. However, specify the attriute in the 'load_prepoc_data' function. You can choose any variable as the protected attribute, however keep in mind that it should fit the definitions of bias in the project.
 
 
-6. The notebook 'General attributes and visualisation' is to show loading and some general attributes of the data, this is not integral to the pipeline. This is just to get a sense of the data.
 
 
